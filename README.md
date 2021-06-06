@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pacholca01
-- 👀 I’m interested in coding and acrobatics
-- 🌱 I’m currently learning javascript and react
-- 💞️ I’m looking to collaborate on a gym management software project
-- 📫 How to reach me find me on twitter at...
+- 👋  Hi, I’m @pacholca01
+- 👀  I’m interested in coding and acrobatics
+- 🌱  I’m currently learning javascript and react
+- 💞️  I’m looking to collaborate on a gym management software project
+- 📫  Find me on twitter at...
 
 <!---
 pacholca01/pacholca01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
