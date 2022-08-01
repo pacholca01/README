@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @pacholca01
-- 👀  I’m interested in coding and acrobatics
-- 🌱  I’m currently learning C# and SQL
+- 👀  I’m interested in data science and programming
+- 🌱  I’m currently learning C#, Python, and SQL
 - 💞️  I’m looking to collaborate on a gym management software project
 - 📫  Find me on twitter at...
 
