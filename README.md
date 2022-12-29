@@ -1,3 +1,5 @@
+# Chuck Pacholski - @pacholca01
+
 - 👋  Hi, I’m @pacholca01
 - 👀  I’m interested in data science and programming
 - 🌱  I’m currently learning C#, Python, and SQL
