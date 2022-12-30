@@ -19,7 +19,7 @@ I currently work as a Junior Data Analyst at [Erie County Department of Social S
 
 #### Database & Data Visualization
 - I have taken courses on Oracle DB Design & Programing & have constructed a Medical System Db in Oracle APEX
-- Python is my bread and butter outside of work. Packages I know include Numpy, Pandas, Matplotlib, Seaborn, BeatifulSoup, SQLite & more. 
+- Python is my bread and butter outside of work. Packages I know include Numpy, Pandas, Matplotlib, Seaborn, BeatifulSoup, PySQLite & more. 
 - IDEs & Webapps for Python include Pycharm & Jupyter Notebooks. I have used Python scrape Georgia's 2022 Senate runoff election results and, separately, data on worker paid leave by country, creating graphing & ploting visualizations.
 - I've also set up a mssql server '19 on in a docker container to run Azure Data Studio as my IDE for SQL testing and development. 
 - At work I use msSQL, Power Query & Power Pivot, & WinPure for data manipulation and cleaning. Tableau, Hyland OnBase Dashboards, IBM Cognos, Matplotlib are used for Data Visualization. 
