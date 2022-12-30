@@ -35,6 +35,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 https://devicon.dev/
 --->
 
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40"/> </a> 
 
-            
+<a href="https://beautiful-soup-4.readthedocs.io/en/latest/#" target="_blank" rel="noreferrer"> <img src="https://beautiful-soup-4.readthedocs.io/en/latest/_images/6.1.jpg" alt="bs4" width="40" height="40"/> </a> 
           
