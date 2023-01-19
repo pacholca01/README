@@ -5,7 +5,7 @@
 I currently work as a Junior Data Analyst at [Erie County Department of Social Services](https://www3.erie.gov/socialservices/find-apply-ecdss-assistance)
 - 👀  I’m interested in data science and programming. 
 - 🌱  I’m currently learning Python, and SQL. I have previous experience using C#, C++, VBA, DAX, M, REGEX, & CSS. 
-- 📫  Find me here on [Linkedin](www.linkedin.com/in/charles-pacholski). <a href="https://linkedin.com/in/charles-pacholski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles-pacholski" height="20" width="20" /></a>
+- 📫  Find me here on [Linkedin](www.linkedin.com/in/charles-pacholski). <a href="https://linkedin.com/in/charles-pacholski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles-pacholski" height="15" width="20" /></a>
 - 📫  Find me here on [Tableau](https://public.tableau.com/app/profile/charles4969). <a href="https://public.tableau.com/app/profile/charles4969" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/tableau-software.png" alt="tableau" width="20" height="20"/> </a> 
 
 ## :fire: What Do I Use On & Off The Job? 
