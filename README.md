@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 https://devicon.dev/
-
+https://icons8.com/icons/set/tableau
 - 📫  Find me here
 --->
 
