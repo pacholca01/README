@@ -4,7 +4,7 @@
 
 I currently work as a Junior Data Analyst at [Erie County Department of Social Services](https://www3.erie.gov/socialservices/find-apply-ecdss-assistance)
 - 👀  I’m interested in data science and programming. 
-- 🌱  I’m currently learning Python, and SQL. I have previous experience using C#, C++, VBA, DAX, M, REGEX, & CSS. 
+- 🌱  I’m currently learning Python, and Oracle PL/SQL. I have previous experience using Oracle SQL, SQL, C#, C++, VBA, DAX, M, REGEX, & CSS. 
 - <a href="https://linkedin.com/in/charles-pacholski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles-pacholski" height="15" width="20" /></a>  Find me here on [Linkedin](www.linkedin.com/in/charles-pacholski). 
 - <a href="https://public.tableau.com/app/profile/charles4969" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/tableau-software.png" alt="tableau" width="20" height="20"/> </a>  Find me here on [Tableau](https://public.tableau.com/app/profile/charles4969). 
 
@@ -21,7 +21,7 @@ I currently work as a Junior Data Analyst at [Erie County Department of Social S
 #### Database & Data Visualization
 - Python is my bread and butter outside of work. Packages I know include Numpy, Pandas, Matplotlib, Seaborn, BeatifulSoup, PySQLite & more. 
 - IDEs & Webapps for Python include Pycharm & Jupyter Notebooks. I have used Python scrape [Georgia's 2022 Senate runoff election results](https://tinyurl.com/TableauGeorgiaRunoffElection) and, separately, data on worker paid leave by country, creating graphing & ploting visualizations.
-- I have taken courses on Oracle DB Design & Programing & have constructed a Medical System Db in Oracle APEX
+- I have taken courses on Oracle DB Design & Programing & have constructed a Medical System Db in Oracle APEX. I'm currently taking a course on Oracle PL/SQL at ECCC.
 - I've also set up a mssql server '19 on in a docker container to run Azure Data Studio as my IDE for SQL testing and development. 
 - At work I use msSQL, Power Query & Power Pivot, & WinPure for data manipulation and cleaning. Tableau, Hyland OnBase Dashboards, IBM Cognos, Matplotlib are used for Data Visualization. 
 <!---
